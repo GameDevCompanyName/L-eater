@@ -4,6 +4,7 @@ import MapObject.*;
 public class LeaterBot extends MapObject {
     private GameMap gameMap;
 
+    //Миша петух
 
     public LeaterBot() {
 
